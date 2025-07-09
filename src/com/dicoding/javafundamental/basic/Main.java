@@ -20,10 +20,6 @@ public class Main {
 
 		Date tomorrow = DateUtils.addDays(today, 1);
 		System.out.println("Besok = " + tomorrow);
-
-		System.out.println("Lol");
-		System.out.println("WTF");
-		System.out.println("APALAGI");
 	}
 
 }

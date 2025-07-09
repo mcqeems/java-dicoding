@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Belajar Java Dicoding:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Belajar_Java_Dicoding_jar</output-path>
+    <root id="archive" name="Belajar Java Dicoding.jar">
+      <element id="module-output" name="Belajar Java Dicoding" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

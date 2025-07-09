@@ -23,6 +23,7 @@ public class Main {
 
 		System.out.println("Hello");
 		System.out.println("Waw");
+		System.out.println("Test");
 	}
 
 }

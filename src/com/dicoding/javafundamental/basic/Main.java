@@ -23,6 +23,7 @@ public class Main {
 
 		System.out.println("Lol");
 		System.out.println("WTF");
+		System.out.println("APALAGI");
 	}
 
 }

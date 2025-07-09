@@ -22,6 +22,7 @@ public class Main {
 		System.out.println("Besok = " + tomorrow);
 
 		System.out.println("Hello");
+		System.out.println("Waw");
 	}
 
 }
